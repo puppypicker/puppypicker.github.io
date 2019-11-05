@@ -1763,7 +1763,7 @@ table td[class*=col-], table th[class*=col-] {
     min-height: .01%
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1400px) {
     .table-responsive {
         width: 100%;
         margin-bottom: 14.25px;
@@ -3510,7 +3510,7 @@ tbody.collapse.in {
     line-height: 19px
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .navbar-nav .open .dropdown-menu {
         position: static;
         float: none;
@@ -3615,7 +3615,7 @@ tbody.collapse.in {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .navbar-form .form-group {
         margin-bottom: 5px
     }
@@ -3753,7 +3753,7 @@ tbody.collapse.in {
     color: #555
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
         color: #000
     }
@@ -3843,7 +3843,7 @@ tbody.collapse.in {
     color: #fff
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
         border-color: transparent
     }
@@ -4458,7 +4458,7 @@ button.close {
     display: none !important
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .visible-xs {
         display: block !important
     }
@@ -4476,19 +4476,19 @@ button.close {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .visible-xs-block {
         display: block !important
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .visible-xs-inline {
         display: inline !important
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .visible-xs-inline-block {
         display: inline-block !important
     }
@@ -4602,7 +4602,7 @@ button.close {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1400px) {
     .hidden-xs {
         display: none !important
     }
